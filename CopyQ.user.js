@@ -5,7 +5,7 @@
 // @include      *
 // @version      0.0.1
 // @run-at       document-idle
-// ==/User JavaScript==
+// ==User JavaScript==
 
 (function() {    
     if (window.top != window.self)  //don't run on frames or iframes
