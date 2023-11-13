@@ -1,12 +1,14 @@
-// ==User JavaScript==
-// @name         CopyQ
-// @namespace    CopyQ
+// ==UserScript==
+// @name         CDU-CopyQ
+// @namespace    CopyQ.CDU
+// @version      0.0.0.1
 // @description  CopyQ
-// @include      *
-// @version      0.0.1.0
+// @author       Ge-CDU
+// @match        http://*/*
 // @downloadURL  https://github.com/CDU-Ge/CopyQ/raw/main/CopyQ.user.js
-// @run-at       document-idle
-// ==User JavaScript==
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @grant        none
+// ==/UserScript==
 
 (function() {    
     if (window.top != window.self)  //don't run on frames or iframes
