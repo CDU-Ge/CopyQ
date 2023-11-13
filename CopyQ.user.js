@@ -3,7 +3,8 @@
 // @namespace    CopyQ
 // @description  CopyQ
 // @include      *
-// @version      0.0.1
+// @version      0.0.1.0
+// @downloadURL  https://github.com/CDU-Ge/CopyQ/raw/main/CopyQ.user.js
 // @run-at       document-idle
 // ==User JavaScript==
 
